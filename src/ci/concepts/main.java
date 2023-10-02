@@ -9,7 +9,7 @@ package ci.concepts;
  *
  * @author Martin
  */
-public class CiConcepts {
+public class main {
 
     /**
      * @param args the command line arguments
